@@ -1,0 +1,27 @@
+.contenedorLogin{
+    background-color: grey;
+    width: 300px;
+    height: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.txtUsuario{
+    margin: 10px 0 30px 0;
+}
+
+.txtPassword{
+    margin: 10px 0 30px 0;
+}
+
+.btnLogin{
+    margin: 10px 0 30px 0;
+    align-items: center;
+    width: 120px;
+    height: 40px;
+}

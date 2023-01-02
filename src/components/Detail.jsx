@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Styles from "./Detail.module.css"
+import Styles from "../styles/Detail.module.css"
 import { useParams } from "react-router-dom";
 
 export default function Detail() {
